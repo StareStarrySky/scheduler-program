@@ -4,7 +4,7 @@ cmd = [
     'python',
     '-m', 'PyInstaller',
     '../src/main.py',
-    '--name', 'reptile',
+    '--name', 'scheduler',
     '--icon', '../favicon.ico',
     '--onefile',
     '--clean'
